@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6ee1b008ebaab5d1ea43c09f402abecf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3f13726c9be1036388a0b4324b8612a4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/a58a552c72aeb5d4ce5635ca5e166a3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6f26fbf1871fb02c55ae897f73055105/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2642f0fec9d5925f69f882e8fb1e3e39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/66191b43cbdf6ea8cac0c3c4dbf5efef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ab01fb4ca3e038917d738ad64793d7a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/92665fcb85c0cc0612cfdd9d76c39b3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/29a018509436e28b4f1bfe506fcad322/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2518c6388ea647f3dc356b71310f18ce/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3fca1728fb350235fa2c6d0c1a49fd4d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6ee6afe1c2df2f574962fdbe53664025/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6df185f8e65ae9609db900623b096925/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/584deb1fcea0b56f464e2c2903a8d7a5/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3f13726c9be1036388a0b4324b8612a4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3f13726c9be1036388a0b4324b8612a4/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.midterm.lasalle.meuexemploswipe1.MainActivity
+ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6ee1b008ebaab5d1ea43c09f402abecf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6ee1b008ebaab5d1ea43c09f402abecf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3f13726c9be1036388a0b4324b8612a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/3f13726c9be1036388a0b4324b8612a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/a58a552c72aeb5d4ce5635ca5e166a3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/a58a552c72aeb5d4ce5635ca5e166a3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6f26fbf1871fb02c55ae897f73055105/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6f26fbf1871fb02c55ae897f73055105/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2642f0fec9d5925f69f882e8fb1e3e39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2642f0fec9d5925f69f882e8fb1e3e39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/66191b43cbdf6ea8cac0c3c4dbf5efef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/66191b43cbdf6ea8cac0c3c4dbf5efef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ab01fb4ca3e038917d738ad64793d7a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ab01fb4ca3e038917d738ad64793d7a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/92665fcb85c0cc0612cfdd9d76c39b3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/92665fcb85c0cc0612cfdd9d76c39b3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/29a018509436e28b4f1bfe506fcad322/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/29a018509436e28b4f1bfe506fcad322/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2518c6388ea647f3dc356b71310f18ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2518c6388ea647f3dc356b71310f18ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3fca1728fb350235fa2c6d0c1a49fd4d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3fca1728fb350235fa2c6d0c1a49fd4d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6ee6afe1c2df2f574962fdbe53664025/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6ee6afe1c2df2f574962fdbe53664025/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6df185f8e65ae9609db900623b096925/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6df185f8e65ae9609db900623b096925/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/584deb1fcea0b56f464e2c2903a8d7a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/victorgesuato/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/584deb1fcea0b56f464e2c2903a8d7a5/AndroidManifest.xml:20:5-44
+INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/victorgesuato/Desktop/GitHubAndroid/MeuExemploSwipeView1/app/src/main/AndroidManifest.xml
