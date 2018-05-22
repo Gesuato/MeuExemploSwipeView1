@@ -1,0 +1,1 @@
+MeuExemploSwipeView1
